@@ -65,11 +65,11 @@ This document explains the steps taken to successfully complete the Git and GitL
 
 - #### Screenshots
 - 
-   ![](<screenshots/task-4>)
+   ![](<screenshots/task-4.png>)
 
 
 
-   ![](<screenshots/Stask-5.png>)
+   ![](<screenshots/task-5.png>)
 
 
 
@@ -90,7 +90,7 @@ This document explains the steps taken to successfully complete the Git and GitL
 
 
 
-   ![](<screenshots/Screenshot 2026-06-03 124804.png>)
+   ![](<screenshots/task-6(2).png>)
 
 
 ---
@@ -100,14 +100,6 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Went to the GitHub Pull Requests tab.
   - Reviewed the code for feature-A and successfully merged it into the main branch.
 
----
-
-- #### Screenshot
-  
-   ![](<screenshots/Screenshot 2026-06-03 124950.png>)
-
-
----
 
 ### Task 8 & 9: Handle Merge Conflict and Complete Merge
 
@@ -120,10 +112,10 @@ This document explains the steps taken to successfully complete the Git and GitL
 
 - #### Screenshots
 - 
-   ![](<screenshots/Screenshot 2026-06-03 132534.png>)
+   ![](<screenshots/task-8.png>)
 
 
-   ![](<screenshots/Screenshot 2026-06-03 132608.png>)
+   ![](<screenshots/task-9.png>)
 
 
 
