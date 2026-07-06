@@ -18,10 +18,11 @@ This document explains the steps taken to successfully complete the Git and GitL
   -  Set the visibility to Public and initialized it with a default README file.
 
 ---
-
+[This is a link](https://github.com/poojathakre08/git-practice-task.git)
 - #### Screenshot
 
    ![](<screenshots/task-1.png>)
+   
 
 ---
 
@@ -120,3 +121,101 @@ This document explains the steps taken to successfully complete the Git and GitL
 
 
 ---
+### Task 10: Fork and Contribute
+
+  - Found a public repository on GitHub and clicked the "Fork" button to copy it to my account.
+  - Cloned the forked repository to my local machine.
+  - Made a small, helpful edit to the README file, committed the change, and pushed it to my fork.
+  - Created a new Pull Request from my fork back to the original repository.
+
+---
+[This is a link](https://github.com/iamtruptimane/ShopEase-Website.git)
+
+- #### Screenshots
+- 
+   ![](<screenshots/task-10.png>)
+
+   ![](<screenshots/task-10.1.png>)
+
+
+
+
+---
+
+### Task 11: GitLab Repository Setup
+
+  - Created a new private repository on GitLab.
+  - Cloned it to my local machine using SSH.
+  - Created the required folder and file structure (src/app.py and docs/guide.md), along with a README.md.
+  - Committed the new directory structure and pushed it to GitLab.
+
+---
+[This is a link](https://gitlab.com/poojathakre08/private-repo-git-practice.git)
+
+- #### Screenshots
+- 
+   ![](<screenshots/task-11.png>)
+
+   ![](<screenshots/task-11.1.png>)
+
+
+
+---
+
+### Task 12: Repository Mirroring
+
+  - In the GitLab repository settings, navigated to the Repository section and selected Mirroring Repositories.
+  - Entered the URL of the GitHub repository (-github-mirror-repo-git-practice) and provided a GitHub Personal Access Token for authentication.
+  - Set the mirror direction to "Push".
+  - Made a test commit on GitLab, and verified that the change automatically appeared in the GitHub repository.
+
+---
+[This is a link](https://github.com/poojathakre08/-github-mirror-repo-git-practice.git)
+[This is a link](https://gitlab.com/poojathakre08/gitlab-mirror-repo-practice.git)
+
+- #### Screenshots
+- 
+  ![](<screenshots/task-12.png>)
+
+  ![](<screenshots/task-12.1.png>)
+
+  ![](<screenshots/task-12.2.png>)
+
+
+---
+
+### Task 13: Branch Protection
+
+  - Went to the Settings of the GitHub repository and clicked on "Branches".
+  - Added a branch protection rule for the main branch.
+  - Checked the box to "Require a pull request before merging" and saved the rules.
+  - Attempted to push a change directly to main from my local terminal and confirmed that the push was successfully blocked.
+    
+---
+[This is a link](https://github.com/poojathakre08/git-practice-task.git)
+
+- #### Screenshots
+- 
+    ![](<screenshots/task-13.png>)
+
+
+---
+
+## Assignment Completion Status
+
+| Task | Description | Status |
+|--------|-------------|---------|
+| 1 | GitHub Repository Creation | ✅ Completed |
+| 2 | Repository Clone | ✅ Completed |
+| 3 | Initial Development on Main Branch | ✅ Completed |
+| 4 | Feature-A Branch Creation | ✅ Completed |
+| 5 | Pull Request (feature-A → main) | ✅ Completed |
+| 6 | Feature-B Branch Creation | ✅ Completed |
+| 7 | Merge Feature-A | ✅ Completed |
+| 8 | Merge Conflict Resolution | ✅ Completed |
+| 9 | Merge Feature-B | ✅ Completed |
+| 10 | Fork and Contribution | ✅ Completed |
+| 11 | GitLab Repository Setup | ✅ Completed |
+| 12 | Repository Mirroring | ✅ Completed |
+| 13 | Branch Protection Configuration | ✅ Completed |
+| 14 | Final Verification | ✅ Completed |
